@@ -1,0 +1,12 @@
+/* src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+* { margin: 0; }
+body, html, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Space Mono', monospace;
+  background: #111;
+  color: rgba(255,255,255,0.5);
+}
